@@ -24,8 +24,8 @@ s.ios.deployment_target = '10.0'
 
 #s.source_files = 'FFSpin/Classes/*.{h}'
 
-#s.vendored_frameworks = 'FFSpin-0.0.3/FFSpin.framework'
-s.vendored_frameworks = 'FFSpin.framework'
+s.vendored_frameworks = 'FFSpin-0.0.3/FFSpin.framework'
+#s.vendored_frameworks = 'FFSpin.framework'
 
 
 end
